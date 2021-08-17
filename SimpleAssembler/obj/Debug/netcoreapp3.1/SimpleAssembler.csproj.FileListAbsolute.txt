@@ -1,0 +1,13 @@
+C:\Users\usman\source\SimpleAssembler\SimpleAssembler\bin\Debug\netcoreapp3.1\SimpleAssembler.exe
+C:\Users\usman\source\SimpleAssembler\SimpleAssembler\bin\Debug\netcoreapp3.1\SimpleAssembler.deps.json
+C:\Users\usman\source\SimpleAssembler\SimpleAssembler\bin\Debug\netcoreapp3.1\SimpleAssembler.runtimeconfig.json
+C:\Users\usman\source\SimpleAssembler\SimpleAssembler\bin\Debug\netcoreapp3.1\SimpleAssembler.runtimeconfig.dev.json
+C:\Users\usman\source\SimpleAssembler\SimpleAssembler\bin\Debug\netcoreapp3.1\SimpleAssembler.dll
+C:\Users\usman\source\SimpleAssembler\SimpleAssembler\bin\Debug\netcoreapp3.1\SimpleAssembler.pdb
+C:\Users\usman\source\SimpleAssembler\SimpleAssembler\obj\Debug\netcoreapp3.1\SimpleAssembler.csproj.AssemblyReference.cache
+C:\Users\usman\source\SimpleAssembler\SimpleAssembler\obj\Debug\netcoreapp3.1\SimpleAssembler.AssemblyInfoInputs.cache
+C:\Users\usman\source\SimpleAssembler\SimpleAssembler\obj\Debug\netcoreapp3.1\SimpleAssembler.AssemblyInfo.cs
+C:\Users\usman\source\SimpleAssembler\SimpleAssembler\obj\Debug\netcoreapp3.1\SimpleAssembler.csproj.CoreCompileInputs.cache
+C:\Users\usman\source\SimpleAssembler\SimpleAssembler\obj\Debug\netcoreapp3.1\SimpleAssembler.dll
+C:\Users\usman\source\SimpleAssembler\SimpleAssembler\obj\Debug\netcoreapp3.1\SimpleAssembler.pdb
+C:\Users\usman\source\SimpleAssembler\SimpleAssembler\obj\Debug\netcoreapp3.1\SimpleAssembler.genruntimeconfig.cache
