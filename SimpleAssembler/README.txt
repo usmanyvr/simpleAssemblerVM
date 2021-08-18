@@ -40,6 +40,4 @@ Following is a basic layout of the design of Virtual Machine.
   delimited instruction. It also has an overloaded run(...) method which can process a single
   instruction.
 
-TIME IT TOOK: It took about more than 12 hours to build this.
-
 Package also includes Factorial.asm file which calculates factorial of a given number.
